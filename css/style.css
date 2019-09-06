@@ -137,14 +137,13 @@ li {
   align-items: center;
   justify-content: center;
   height: 86vh;
-  background-image: url("/Users/shimoshiohiroki/projects/github-pages/img/tree-753069_1920.jpg");
+  background-image: image-url("tree-753069_1920.jpg");
 }
 
 #header .logo {
   position: relative;
   margin-bottom: 30px;
   text-align: center;
-  color: black;
 }
 
 #header .logo-title {
