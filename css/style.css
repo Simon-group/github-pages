@@ -137,7 +137,7 @@ li {
   align-items: center;
   justify-content: center;
   height: 86vh;
-  background-image: image-url("tree-753069_1920.jpg");
+  background-color: black;
 }
 
 #header .logo {
@@ -151,6 +151,7 @@ li {
   font-size: 64px;
   line-height: 1;
   letter-spacing: .2em;
+  color: white;
 }
 
 #header .logo-desc {
@@ -158,6 +159,7 @@ li {
   margin-top: 5px;
   text-align: center;
   letter-spacing: .2em;
+  color: white;
 }
 
 /*--------------------------------
